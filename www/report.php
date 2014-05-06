@@ -2,8 +2,7 @@
 /*
 
 @author mike |at| mycal.net
-@author keckec
-@author bmargolin
+@author karlc |at| keckec.com
 
 Weather Station Server. This is expermental code to enable registering and
 receiving ongoing data feeds from a Lacrosse Technologies GW-1000U gateway
